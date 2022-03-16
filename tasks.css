@@ -1,0 +1,50 @@
+/* Task 1  */
+div{
+    border:2px solid orange;
+    padding:20px;
+    text-align: center;
+}
+
+div p {
+    border:inherit;
+    background-color:lightgray;
+    padding:inherit;
+}
+
+/* Task 2 */
+.sans{
+    font-family: 'Open Sans', sans-serif;
+    font-size:70px;
+}
+.cairo{
+    font-family: 'Cairo', sans-serif;
+font-size:50px;
+}
+
+.jomhuria{
+    font-family: 'Jomhuria', cursive;
+    font-size:30px;
+}
+
+.sans,
+.cairo,
+.jomhuria{
+text-align: center;
+}
+
+/* Task 3  */
+html{
+    font-size:20px;
+}
+
+.task3-1{
+    font-size:2.5rem;
+}
+
+.task3-2{
+    font-size:2rem;
+}
+
+.task3-3{
+font-size:1.5rem;
+}
